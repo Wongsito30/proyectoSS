@@ -13,6 +13,7 @@
     <form class="principal">
         <label for="">Fecha de atencion: </label>
         <input type="date">
+        <input type="text" placeholder="Nombre del enfermero">
         <input type="text" placeholder="Nombre del paciente">
         <input type="text" placeholder="Edad del paciente">
         <input type="text" placeholder="Peso">
